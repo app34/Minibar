@@ -1,4 +1,4 @@
-const CACHE = "minibar-xl-1.8.0";
+const CACHE = "minibar-xl-2.1.0";
 
 self.addEventListener("install", (e) => {
   e.waitUntil(self.skipWaiting());
